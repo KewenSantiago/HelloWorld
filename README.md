@@ -1,4 +1,4 @@
 # Hello, World!
  Primeiro repositório versionado.
 
-Adição de lição de forma remota através do próprio site.
+Adição de linha de forma remota através do próprio site.
